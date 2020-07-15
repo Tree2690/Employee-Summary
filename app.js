@@ -1,3 +1,4 @@
+const { prompt } = require('inquirer')
 const userClass = require("./roles.js")
 
 const employeeRoles =
